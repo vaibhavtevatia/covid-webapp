@@ -12,4 +12,4 @@ npm start
 ```
 
 if everything works fine you will be presented with the following UI <br>
-<img src="/screenshots/ui.png" alt="ui" />
+<img src="/ui.png" alt="ui" />
